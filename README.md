@@ -9,5 +9,5 @@ Bare bones Spring Boot Project to be used as starting point for full blown proje
 [/] Default Thymeleaf hello page
 
 # REST endpoints:
-[/api/persons] Persons. supports GET/POST
-[/api/books] Books. supports GET/POST/DELETE
+* [/api/persons] Persons. supports GET/POST
+* [/api/books] Books. supports GET/POST/DELETE
