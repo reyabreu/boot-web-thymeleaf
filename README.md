@@ -1,4 +1,4 @@
-# demo-bootstrap
+# Bootstrap Web Project with Thymleaf
 Bare bones Spring Boot Project to be used as starting point for full blown projects.
 
 # setup
